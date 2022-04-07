@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "title": "Кисть для теней NYX Professional Makeup Pro Crease Brush",
+      "price": 360,
+      "description": "Качество инструмента для нанесения макияжа влияет на результат не меньше, чем свойства декоративной косметики. С кисточкой Pro Crease Brush вы создадите действительно совершенный мейкап!",
+      "id": 1,
+      "category": "brushes"
+    },
+    {
+      "title": "Alcina Shiny Lipstick",
+      "price": 320,
+      "description": "Придать нежности и шарма, обеспечить выразительность и позаботиться о губах сможет невероятная помада Shiny Lipstick от Alcina!",
+      "id": 2,
+      "category": "lipsticks"
+    },
+    {
+      "title": "Палетка теней для век Makeup Obsession Spiritual Stars Shadow Palette, 20.8 г",
+      "price": 830,
+      "description": "Маленькая книжечка с магическими заклинаниями — для вашего волшебного перевоплощения! Бренд I Heart Revolution собрал в ней 18 оттенков теней для идеального макияжа в ночь Хэллоуина.",
+      "id": 3,
+      "category": "eyes-shadows"
+    },
+    {
+      "title": "Компактные румяна для лица Lamel Professional Cheek Colour 405, 3.8 г",
+      "price": 200,
+      "description": "Безупречный макияж в течение всего дня! Легкие румяна британской марки Lamel Professional долго держатся на коже. Они  хорошо пигментированы, но смотрятся естественно.",
+      "id": 4,
+      "category": "blushes"
+    },
+    {
+      "title": "6554",
+      "price": "54",
+      "description": "fbhfgh",
+      "id": "e4d9b6c8-2f77-40a4-96c3-544f0ef14ad2",
+      "category": "eyes-shadows"
+    }
+  ],
+  "categories": [
+    "lipsticks",
+    "eyes-shadows",
+    "brushes",
+    "blushes"
+  ]
+}
