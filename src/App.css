@@ -1,0 +1,7 @@
+.App {
+  margin: 0 auto;
+  text-align: center;
+  max-width: 1080px;
+  display: grid;
+  grid-template-columns: 540px 540px;
+}

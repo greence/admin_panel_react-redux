@@ -1,0 +1,60 @@
+.card {
+	margin: 20px auto;
+	width: 500px;
+	padding: 10px;
+	min-height: 150px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	border: 1px solid #bebebe;
+	border-radius: 10px;
+	transition: all 0.5s ease-in 0s;
+
+	&:hover {
+		border-color: #5ad6a7;
+		cursor: pointer;
+		transform: translateX(-10px);
+		transform: scale(1.05);
+	}
+}
+
+.card__top {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 10px;
+	align-items: flex-start;
+}
+
+.card__bottom {
+	display: flex;
+	justify-content: space-between;
+}
+
+.card__title {
+	font-size: 24px;
+	font-weight: 600;
+	text-align: left;
+}
+
+.card__description {
+	margin-bottom: 10px;
+}
+
+.card__description__text {
+	text-align: left;
+}
+
+
+.card__delete-button {
+	padding: 5px;
+	background-color: #bebebe;
+	border-radius: 30px;
+	min-width: 100px;
+	text-align: center;
+	transition: all 0.3s ease-in 0s;
+	font-weight: 500;
+
+	&:hover {
+		background-color: #5ad6a7;
+	}
+}
